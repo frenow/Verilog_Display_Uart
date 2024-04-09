@@ -1,0 +1,33 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Emerson/Documents/uart3/src/rows.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Emerson/Documents/uart3/src/screen.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Emerson/Documents/uart3/src/text.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Emerson/Documents/uart3/src/uart.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Emerson/Documents/uart3/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

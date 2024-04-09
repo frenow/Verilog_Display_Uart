@@ -1,0 +1,12 @@
+-d C:\Users\Emerson\Documents\uart3\impl\gwsynthesis\uart.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst C:\Users\Emerson\Documents\uart3\src\main.cst
+-cfg C:\Users\Emerson\Documents\uart3\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23

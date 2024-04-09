@@ -1,0 +1,60 @@
+[
+ {
+  "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+  "InstLine" : 19,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+  "ModuleLine" : 19,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 44,
+    "InstName" : "rx",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/uart.v",
+    "ModuleLine" : 46,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 45,
+    "InstName" : "tx",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/uart.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   },
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 47,
+    "InstName" : "scr",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/screen.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "screen"
+   },
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 51,
+    "InstName" : "row",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/rows.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uartTextRow"
+   },
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 53,
+    "InstName" : "c",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "counterM"
+   },
+   {
+    "InstFile" : "C:/Users/Emerson/Documents/uart3/src/main.v",
+    "InstLine" : 55,
+    "InstName" : "te",
+    "ModuleFile" : "C:/Users/Emerson/Documents/uart3/src/text.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "textEngine"
+   }
+  ]
+ }
+]
